@@ -1,3 +1,4 @@
 contenido del archivo 4
 nuevo contenido
- ultima linea
+ ultima linea (ya no lo es)
+nueva ultima linea
